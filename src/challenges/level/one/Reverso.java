@@ -6,7 +6,6 @@ import java.util.Scanner;
 
 public class Reverso {
     public static void main(String[] args){
-        //int megasena[] = {10,68,89,33,14,82,71,90,26};
 
         ArrayList<String> nomes = new ArrayList();
 
