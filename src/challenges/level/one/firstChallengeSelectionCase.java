@@ -91,7 +91,7 @@ public class firstChallengeSelectionCase {
         **/
     }
 
-    //método auxiliar
+    // método auxiliar
     static boolean atender() {
         return new Random().nextInt(3)==1;
     }
