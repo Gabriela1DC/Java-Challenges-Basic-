@@ -1,6 +1,6 @@
-## 💻 Java Básico - Desafios e Exercícios
+## 💻 Java Básico - Anotações, Desafios e Exercícios [Em andamento] [Em processo de Organização]
 
-Bem-vindo ao repositório **Java Básico - Desafios e Exercícios**\!
+Bem-vindo ao repositório **Java Básico -Anotações,  Desafios e Exercícios**\!
 
 Este projeto é uma coleção de desafios e exercícios práticos criados para ajudar você a dominar os fundamentos da programação em Java. Aqui, você encontrará problemas de dificuldade crescente, desde a sintaxe básica até o uso de estruturas de dados e padrões de design.
 
@@ -27,7 +27,7 @@ Os exercícios foram pensados para cobrir os seguintes conceitos-chave da lingua
 ### Como Usar
 
 1.  **Clone o Repositório:**
-    `git clone https://github.com/seu-usuario/java-basico-exercicios.git`
+    `git clone https://github.com/Gabriela1DC/Java-Challenges-Basic-.git`
 2.  **Abra em sua IDE:** Importe o projeto em sua IDE favorita (IntelliJ IDEA, Eclipse, VS Code, etc.).
 3.  **Explore os Exercícios:** Os exercícios estão organizados em pacotes para facilitar a navegação.
 4.  **Crie suas Soluções:** Para cada exercício, tente criar sua própria solução do zero. Compare com outras soluções, se houver.
