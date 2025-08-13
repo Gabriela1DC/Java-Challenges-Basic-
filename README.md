@@ -35,30 +35,6 @@ Os exercícios foram pensados para cobrir os seguintes conceitos-chave da lingua
 
 -----
 
-### Estrutura do Projeto
-
-O projeto segue uma estrutura simples para fácil navegação:
-
-```
-.
-├── src/
-│   ├── main/
-│   │   └── java/
-│   │       └── com/
-│   │           └── seuprojeto/
-│   │               ├── exerciciosbasicos/    
-│   │               ├── colecoes/
-│   │               ├── excecoes/
-│   │               └── desafiosfinais/
-└── README.md
-```
-
-### Contribuições
-
-Sinta-se à vontade para contribuir\! Se você tiver uma nova ideia de exercício, melhoria em uma solução existente ou correção de um bug, envie um Pull Request.
-
------
-
 ### Licença
 
 Este projeto está sob a licença MIT. Para mais detalhes, consulte o arquivo `LICENSE`.
