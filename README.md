@@ -1,4 +1,5 @@
-## 💻 Java Básico - Anotações, Desafios e Exercícios [Em andamento] [Em processo de Organização]
+## 💻 Java Básico - Anotações, Desafios e Exercícios [Em andamento] 
+###[Em processo de Organização]
 
 Bem-vindo ao repositório **Java Básico -Anotações,  Desafios e Exercícios**\!
 
