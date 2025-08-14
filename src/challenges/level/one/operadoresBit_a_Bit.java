@@ -88,7 +88,7 @@ public class operadoresBit_a_Bit {
     }
 
 
-    /*
+    /**
 
       0 = Represnta o false
       1 = Representa o true
